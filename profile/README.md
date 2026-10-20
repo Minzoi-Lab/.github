@@ -1,4 +1,1 @@
-Hi there 👋
-
-About us! 
 Hello fellow person on the internet! You must have stumbled across our page, one thing we want you to know is that we always try our best to make you tech that you can enjoy or use. We are a small group of devs with hopes and dreams that we could make it successful one day. Enjoy!
