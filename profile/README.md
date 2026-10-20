@@ -1,8 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
-We are Minzoi Lab, a small development team making projects for you and everyone.
-
-Projects:
-Minzoi Calculator (Coming soon on store)
-Minzoi Store (Download our apps, coming soon!)
-Hash++ and more...
+About us! 
+Hello fellow person on the internet! You must have stumbled across our page, one thing we want you to know is that we always try our best to make you tech that you can enjoy or use. We are a small group of devs with hopes and dreams that we could make it successful one day. Enjoy!
